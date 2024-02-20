@@ -10,8 +10,11 @@
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=CSS%2B%2B%EF%B8%B190.6%25)
 ![Manual Testing](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236E4C13&message=Manual_testing%EF%B8%B195.4%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B170%25)
-![Cypress](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23438eff&message=Cypress%EF%B8%B170%25)
+![Cypress](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23438eff&message=Cypress%EF%B8%B180%25)
 ![Bootstrap](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Bootstrap%EF%B8%B196%25)
+![API Testing](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=API_TestingL%EF%B8%B193.6%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=CSS%2B%2B%EF%B8%B190.6%25)
+![Manual Testing](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236E4C13&message=Manual_testing%EF%B8%B195.4%25)
 
 <!---
 rmayank3814/rmayank3814 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
