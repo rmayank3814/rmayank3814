@@ -13,7 +13,7 @@
 ![Cypress](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23438eff&message=Cypress%EF%B8%B180%25)
 ![Bootstrap](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Bootstrap%EF%B8%B196%25)
 ![API Testing](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=API_Testing%EF%B8%B160.6%25)
-![Database Testing](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=Database_Testing%2B%2B%EF%B8%B180.6%25)
+![Database Testing](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=Database_Testing%EF%B8%B180.6%25)
 ![FTP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236E4C13&message=Ftp%EF%B8%B198.4%25)
 
 <!---
